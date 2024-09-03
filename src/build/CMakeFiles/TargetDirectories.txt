@@ -1,0 +1,5 @@
+/Users/dashish/School-21.Core/In progress/CPP4_3DViewer_v2.0-2/src/build/CMakeFiles/qglbegin.dir
+/Users/dashish/School-21.Core/In progress/CPP4_3DViewer_v2.0-2/src/build/CMakeFiles/edit_cache.dir
+/Users/dashish/School-21.Core/In progress/CPP4_3DViewer_v2.0-2/src/build/CMakeFiles/rebuild_cache.dir
+/Users/dashish/School-21.Core/In progress/CPP4_3DViewer_v2.0-2/src/build/CMakeFiles/qglbegin_autogen_timestamp_deps.dir
+/Users/dashish/School-21.Core/In progress/CPP4_3DViewer_v2.0-2/src/build/CMakeFiles/qglbegin_autogen.dir
